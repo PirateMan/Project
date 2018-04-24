@@ -1,5 +1,5 @@
 clear; close all; clc;
-%Disable 'too big' warning
+%Disable annoying 'too big' warning
 WarnID = 'images:initSize:adjustingMag';
 warning('off',WarnID);
 
