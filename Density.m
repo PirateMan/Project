@@ -3,7 +3,7 @@ clear; close all; clc;
 WarnID = 'images:initSize:adjustingMag';
 warning('off',WarnID);
 
-import mammogram
+%import mammogram
 Mam = imread('mdb005.pgm');
 MamComp = imread('mdb006.pgm');
 
