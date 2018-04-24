@@ -1,3 +1,3 @@
 # Project source code for CAD system
-#Ciaran Hickey \n
+Ciaran Hickey
 University of Lincoln
