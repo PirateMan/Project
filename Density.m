@@ -334,7 +334,7 @@ imshow(CCRNew);
 title('Right')
 
 %again for left 
-
+%j
 %Compute area for each white shape
 AreaL = regionprops(CCL,'area');
 AreaL = struct2array(AreaL);
